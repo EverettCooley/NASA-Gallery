@@ -13,6 +13,9 @@
 		15AE0A12288E462200444A19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15AE0A10288E462200444A19 /* Main.storyboard */; };
 		15AE0A14288E462400444A19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15AE0A13288E462400444A19 /* Assets.xcassets */; };
 		15AE0A17288E462400444A19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15AE0A15288E462400444A19 /* LaunchScreen.storyboard */; };
+		15AE0A1F288E46CD00444A19 /* PhotoInfoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15AE0A1E288E46CD00444A19 /* PhotoInfoController.swift */; };
+		15AE0A21288E46E600444A19 /* PhotoInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15AE0A20288E46E600444A19 /* PhotoInfo.swift */; };
+		15AE0A23288E470A00444A19 /* URLHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15AE0A22288E470A00444A19 /* URLHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		15AE0A13288E462400444A19 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		15AE0A16288E462400444A19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		15AE0A18288E462400444A19 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		15AE0A1E288E46CD00444A19 /* PhotoInfoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoInfoController.swift; sourceTree = "<group>"; };
+		15AE0A20288E46E600444A19 /* PhotoInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoInfo.swift; sourceTree = "<group>"; };
+		15AE0A22288E470A00444A19 /* URLHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				15AE0A0A288E462200444A19 /* AppDelegate.swift */,
 				15AE0A0C288E462200444A19 /* SceneDelegate.swift */,
 				15AE0A0E288E462200444A19 /* ViewController.swift */,
+				15AE0A1E288E46CD00444A19 /* PhotoInfoController.swift */,
+				15AE0A20288E46E600444A19 /* PhotoInfo.swift */,
+				15AE0A22288E470A00444A19 /* URLHelper.swift */,
 				15AE0A10288E462200444A19 /* Main.storyboard */,
 				15AE0A13288E462400444A19 /* Assets.xcassets */,
 				15AE0A15288E462400444A19 /* LaunchScreen.storyboard */,
@@ -140,7 +149,10 @@
 			files = (
 				15AE0A0F288E462200444A19 /* ViewController.swift in Sources */,
 				15AE0A0B288E462200444A19 /* AppDelegate.swift in Sources */,
+				15AE0A1F288E46CD00444A19 /* PhotoInfoController.swift in Sources */,
+				15AE0A23288E470A00444A19 /* URLHelper.swift in Sources */,
 				15AE0A0D288E462200444A19 /* SceneDelegate.swift in Sources */,
+				15AE0A21288E46E600444A19 /* PhotoInfo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  NASA-Gallery
-//
-//  Created by v on 7/24/22.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
